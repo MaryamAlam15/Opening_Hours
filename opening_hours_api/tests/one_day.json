@@ -1,0 +1,17 @@
+{
+  "data": {
+    "thursday": [
+      {
+        "type": "open",
+        "value": 37800
+      },
+      {
+        "type": "close",
+        "value": 64800
+      }
+    ]
+  },
+  "expected_result": {
+    "Thursday": "10.30 AM - 6 PM"
+  }
+}

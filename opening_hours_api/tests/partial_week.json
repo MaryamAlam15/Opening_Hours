@@ -1,0 +1,36 @@
+{
+  "data": {
+    "friday": [
+      {
+        "type": "open",
+        "value": 64800
+      }
+    ],
+    "saturday": [
+      {
+        "type": "close",
+        "value": 3600
+      },
+      {
+        "type": "open",
+        "value": 32400
+      },
+      {
+        "type": "close",
+        "value": 39600
+      },
+      {
+        "type": "open",
+        "value": 57600
+      },
+      {
+        "type": "close",
+        "value": 82800
+      }
+    ]
+  },
+  "expected_result": {
+    "Friday": "6 PM - 1 AM",
+    "Saturday": "9 AM - 11 AM, 4 PM - 11 PM"
+  }
+}
